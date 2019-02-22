@@ -1,13 +1,13 @@
 {
     "ghRepos": [
         {
-            "name": "repo 1",
+            "name": "LinuxKit",
             "keywords": [
             "docker"
             ]
         },
         {
-            "name": "repo 2",
+            "name": "Service Mesh (Istio)",
             "keywords": [
             "istio"
             ]
@@ -15,7 +15,7 @@
     ],
     "tools" : [
         {
-            "name": "tool 1",
+            "name": "Container Tools",
             "keywords": [
             "kubernetes",
             "docker"
@@ -27,10 +27,13 @@
     ],
     "snippets" : [
         {
-            "name": "snippet 1"
+            "name": "Remove all stopped containers",
+            "keywords": [
+            "docker"
+            ]
         },
         {
-            "name": "snippet 2"
+            "name": "Wipe a disk"
         }
     ],
     "posts" : [
@@ -38,7 +41,7 @@
             "name": "post 1"
         },
         {
-            "name": "post 2",
+            "name": "Deploy Kubernetes on bare metal",
             "keywords": [
             "kubernetes"
             ]
