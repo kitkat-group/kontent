@@ -1,15 +1,25 @@
 {
     "ghRepos": [
         {
-            "name": "repo 1"
+            "name": "repo 1",
+            "keywords": [
+            "docker"
+            ]
         },
         {
-            "name": "repo 2"
+            "name": "repo 2",
+            "keywords": [
+            "istio"
+            ]
         }
     ],
     "tools" : [
         {
-            "name": "tool 1"
+            "name": "tool 1",
+            "keywords": [
+            "kubernetes",
+            "docker"
+            ]
         },
         {
             "name": "tool 2"
