@@ -22,7 +22,11 @@
             ]
         },
         {
-            "name": "tool 2"
+            "name": "kubectl",
+            "keywords": [
+            "kubernetes",
+            "kubectl"
+            ]
         }
     ],
     "snippets" : [
@@ -33,12 +37,19 @@
             ]
         },
         {
-            "name": "Wipe a disk"
+            "name": "Wipe a disk",
+            "keywords": [
+            "linux"
+            ]
         }
     ],
     "posts" : [
         {
-            "name": "post 1"
+            "name": "CVE-2001-123",
+            "keywords": [
+            "linux",
+            "vulnerability"
+            ]
         },
         {
             "name": "Deploy Kubernetes on bare metal",
