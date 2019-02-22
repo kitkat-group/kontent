@@ -28,7 +28,10 @@
             "name": "post 1"
         },
         {
-            "name": "post 2"
+            "name": "post 2",
+            "keywords" [
+            "kubernetes"
+            ]
         }
     ]
 }
